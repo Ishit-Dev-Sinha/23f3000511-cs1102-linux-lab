@@ -7,4 +7,5 @@ Email: 23f3000511@es.study.iitm.ac.in
 - Bash Scripting
 - Data Science
 - VLSI Design
-- Quantum Computing 
+- Quantum Computing
+- LLM 
